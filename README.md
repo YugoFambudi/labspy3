@@ -1,5 +1,5 @@
 # Labpy3
-## <p align="center">  **PERULANGAN ( LOOPING )**
+## <p align="center">  **PERULANGAN / LOOPING**
 Perualangan dalam bahasa pemrograman berfungsi menyuruh komputer melakukan sesuatu secara berulang-ulang.
 
 **Dalam Praktek kali ini akan menggunakan _For Loop_ dan _While Loop_.**
